@@ -5,3 +5,7 @@ echo "alias ll='ls -l'" | tee -a ~/.bashrc
 source /.bashrc
 
 
+sudo echo "alias redfurd='echo 'SHeeesh''" >> ~/.bashrc
+
+
+
