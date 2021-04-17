@@ -1,11 +1,7 @@
-alias clr=clear 
-echo "alias clr=clear" | tee -a ~/.bashrc
-echo "alias lla='ls -l -a'" | tee -a ~/.bashrc 
-echo "alias ll='ls -l'" | tee -a ~/.bashrc
-source /.bashrc
-
 
 sudo echo "alias redfurd='echo 'SHeeesh''" >> ~/.bashrc
-
-
+sudo echo "alias lla= 'ls -l -a'" >> ~/.bashrc 
+sudo echo "alias clr= 'clr'" >> ~/.bashrc 
+sudo echo "alias ll= 'ls -l'" >> ~/.bashrc 
+source ~/.bashrc 
 
