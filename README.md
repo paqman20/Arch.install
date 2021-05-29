@@ -1,2 +1,1 @@
-This is all about my arch system. It contains all the things i would want to install and configure when I install or something breaks. Please feel free  to add things it would be helpfull!!!
-
+This is all about my arch system. It contains all the things i would want to install and configure when I install or something breaks. Please feel free  to add things it would be helpfull. These are just scripts that will help tune and configure what I like. You are weclome to make your own branch based on mine. These are based on what I want. All of these are also optinal you dont need to add everyone.
