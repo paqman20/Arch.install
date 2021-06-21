@@ -10,7 +10,7 @@ sudo echo "alias ss='sudo surfshark-vpn '" >> ~/.bashrc
 sudo echo "alias sss='sudo surfshark-vpn status'" >> ~/.bashrc
 sudo echo "alias ssd='sudo surfshark-vpn down'" >> ~/.bashrc
 sudo echo "                                     " >> ~/.bashrc
-sudo echo "alias killswitch="sudo bash killswitch.sh" >> ~/.bashrc
+sudo echo "alias killswitch="sudo bash /opt/killswitch.sh" >> ~/.bashrc
 sudo echo "alias dwn='sudo ufw disable'"  >> ~/.bashrc 
 
 
