@@ -9,6 +9,9 @@ sudo echo "alias ssa='sudo surfshark-vpn attack'" >> ~/.bashrc
 sudo echo "alias ss='sudo surfshark-vpn '" >> ~/.bashrc
 sudo echo "alias sss='sudo surfshark-vpn status'" >> ~/.bashrc
 sudo echo "alias ssd='sudo surfshark-vpn down'" >> ~/.bashrc
+sudo echo "                                     " >> ~/.bashrc
+sudo echo "alias kill switch="sudo bash killswitch.sh" >> ~/.bashrc
+
 
 
 
