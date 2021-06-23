@@ -7,4 +7,5 @@ sudo pacman -S gimp
 sudo pacman -S VLC
 sudo pacman -S gparted 
 sudo pacman -S thunderbird 
- 
+sudo pacman -S unzip 
+sudo pacman -S ufw 
