@@ -9,3 +9,5 @@ sudo pacman -S gparted
 sudo pacman -S thunderbird 
 sudo pacman -S unzip 
 sudo pacman -S ufw 
+sudo pacman -S openvpn 
+sudo pacman -S networkmanager 
